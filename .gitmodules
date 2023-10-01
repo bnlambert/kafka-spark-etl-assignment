@@ -1,0 +1,3 @@
+[submodule "cluster/connectors/kafka-connect-rest"]
+	path = cluster/connectors/kafka-connect-rest
+	url = https://github.com/llofberg/kafka-connect-rest.git
